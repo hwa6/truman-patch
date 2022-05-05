@@ -2,7 +2,7 @@
 
 # Description
 
-I was tasked with bridging the gap between several independent branches of the Truman platform. The targeted repositories were: \
+I was tasked with bridging the gap between several independent branches of the Truman platform. The targeted repositories were:
 
 https://github.com/kgoebel124/trumancopy -- Admin Project \
 https://github.com/RyanSchmidLehigh/Truman -- Hashtag+User Projects \
